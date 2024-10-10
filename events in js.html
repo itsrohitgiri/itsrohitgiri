@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Events In Java Script</h1>
+    <button id="button">
+        Click me
+    </button>
+    <p id="para">
+        __________________
+    </p>
+    <label for="nameInput">Name: </label>
+    <input type="text" id="nameInput" placeholder="Enter Your Name">
+    <p id="focusMessage"></p>
+
+    <label for="colorSelect">select a color:</label>
+    <select id="colorSelect">
+        <option value="">Choose</option>
+        <option value="Red">Red</option>
+        <option value="Green">Green</option>
+        <option value="Blue">Blue</option>
+    </select>
+    <p id="colorMessage"></p>
+    <script>
+        document.getElementById("button").onclick = function(){
+            document.getElementById("para").innerHTML="Button clicked"
+        }
+        document.getElementById("nameInput").onfocus = function(){
+            document.getElementById('focusMessage').innerText="Input field is focused!"
+        }
+        document.getElementById("nameInput").onblur = function(){
+            document.getElementById("focusMessage").innerHTML="Input field lost focus!"
+        }
+        document.getElementById("button").onclick = function(){
+            document.getElementById("para").innerHTML="Button clicked"
+        }
+        document.getElementById("button").onclick = function(){
+            document.getElementById("para").innerHTML="Button clicked"
+        }
+    </script>
+</body>
+</html>
