@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Account Viewer</title>
+    <style>
+        /* Reset some basic styling */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f4f4f9;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 1rem;
+        }
+
+        /* Card styling */
+        #parent {
+            background-color: #ffffff;
+            padding: 2rem;
+            width: 100%;
+            max-width: 400px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            text-align: center;
+        }
+
+        #parent h2 {
+            color: #333;
+            font-size: 1.5rem;
+            margin-bottom: 0.5rem;
+        }
+
+        #parent p {
+            color: #666;
+            margin: 0.5rem 0;
+        }
+
+        /* Avatar image styling */
+        #avatar {
+            border-radius: 50%;
+            margin-bottom: 1rem;
+        }
+
+        /* Button styling */
+        button {
+            margin-top: 1rem;
+            padding: 0.6rem 1.5rem;
+            font-size: 1rem;
+            color: #fff;
+            background-color: #0073e6;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        const getdata = () => {
+            fetch("https://api.github.com/users/itsrohitgiri")
+                .then((res) => res.json())
+                .then((data) => {
+                    display(data);
+                })
+                .catch((error) => console.error("Error fetching data:", error));
+        };
+
+        const display = (data) => {
+            const parentDiv = document.getElementById("parent");
+            const avatarImg = document.getElementById("avatar");
+            avatarImg.style.display = "none";
+            parentDiv.innerHTML = `
+                <h2>${data.name}</h2>
+                <p><strong>Username:</strong> ${data.login}</p>
+                <p><strong>Bio:</strong> ${data.bio}</p>
+                <p><strong>Public Repos:</strong> ${data.public_repos}</p>
+                <img src="${data.avatar_url}" alt="Avatar" width="150" style="border-radius: 50%; margin-top: 1rem;" />
+            `;
+        };
+    </script>
+    <h1>Github Account Viewer</h1>
+    <div id="parent">
+        <img src="https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png" id="avatar" alt="user-avatar" width="150">
+        <button onclick="getdata()">Search</button>
+    </div>
+</body>
+</html>
