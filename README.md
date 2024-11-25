@@ -8,7 +8,7 @@ My journey so far has been fueled by curiosity and the drive to build and learn 
 📍 Based in India  
 
 🔧 **Skills & Certifications**  
-- 🌐 Problem Solving (Intermediate) | [HackerRank](https://www.hackerrank.com/certificates/d164a6a2382a)  
+- 🌐 Problem Solving (Intermediate) | [HackerRank Certificate](https://www.hackerrank.com/certificates/d164a6a2382a)  
 - 🖥️ AWS Certified in Cloud Computing  
 - 🔍 Log Analysis  
 - 💻 3-star rating in C language and Problem Solving on HackerRank [https://www.hackerrank.com/profile/AIMLC_22B1531076] 
