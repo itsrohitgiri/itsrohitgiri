@@ -11,7 +11,7 @@ My journey so far has been fueled by curiosity and the drive to build and learn 
 - 🌐 Problem Solving (Intermediate) | [HackerRank Certificate](https://www.hackerrank.com/certificates/d164a6a2382a)  
 - 🖥️ AWS Certified in Cloud Computing  
 - 🔍 Log Analysis  
-- 💻 3-star rating in C language and Problem Solving on HackerRank [https://www.hackerrank.com/profile/AIMLC_22B1531076] 
+- 💻 3-star rating in C language and Problem Solving on [HackerRank](https://www.hackerrank.com/profile/AIMLC_22B1531076)
 - 🎨 Built [A React-based app featuring intuitive drawing tools and AI-powered features like LaTeX recognition.] | (https://github.com/itsrohitgiri/AI_Notepad)  
 
 ---
