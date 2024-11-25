@@ -46,11 +46,11 @@ My journey so far has been fueled by curiosity and the drive to build and learn 
 
 [![Twitter](https://img.icons8.com/cute-clipart/30/twitter.png)](https://twitter.com/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
 
-[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/itsrohitgiri) : @itsrohitgiri <img src="https://image.similarpng.com/very-thumbnail/2020/05/Golden-Linkedin-icon-png.png" alt="Verified" width="20">
 
-[![Snapchat](https://img.icons8.com/pulsar-color/30/snapchat.png)](https://www.snapchat.com/add/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+[![Snapchat](https://img.icons8.com/pulsar-color/30/snapchat.png)](https://www.snapchat.com/add/itsrohitgiri) : @itsrohitgiri <img src="https://th.bing.com/th/id/OIP.dVRxGW-pnKUAet0g0KqY_gAAAA?w=290&h=290&rs=1&pid=ImgDetMain" alt="Verified" width="20">
 
-[![YouTube](https://img.icons8.com/scribby/30/youtube-play.png)](https://www.youtube.com/channel/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+[![YouTube](https://img.icons8.com/scribby/30/youtube-play.png)](https://www.youtube.com/channel/itsrohitgiri) : @itsrohitgiri <img src="https://cdn-icons-png.flaticon.com/512/6928/6928921.png" alt="Verified" width="20">
 
 </div>
 
