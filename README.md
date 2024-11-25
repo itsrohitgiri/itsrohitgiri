@@ -40,11 +40,11 @@ My journey so far has been fueled by curiosity and the drive to build and learn 
 ---
 
 🌐 **Find Me Online**  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat)](https://www.instagram.com/itsrohitgiri)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/itsrohitgiri)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/itsrohitgiri)  
-[![Snapchat](https://img.shields.io/badge/-Snapchat-FFFC00?logo=snapchat&logoColor=black&style=flat)](https://www.snapchat.com/add/itsrohitgiri)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white&style=flat)](https://www.youtube.com/channel/itsrohitgiri)  
+[![Instagram](https://img.icons8.com/clouds/30/instagram-new--v3.png)](https://www.instagram.com/itsrohitgiri)  
+[![Twitter](https://img.icons8.com/cute-clipart/30/twitter.png)](https://twitter.com/itsrohitgiri)  
+[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/itsrohitgiri)  
+[![Snapchat](https://img.icons8.com/pulsar-color/30/snapchat.png)](https://www.snapchat.com/add/itsrohitgiri)  
+[![YouTube](https://img.icons8.com/scribby/30/youtube-play.png)](https://www.youtube.com/channel/itsrohitgiri)  
   
 ---
 
