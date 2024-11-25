@@ -74,7 +74,7 @@ My journey so far has been fueled by curiosity and the drive to build and learn 
 ![R](https://img.icons8.com/fluency/50/r-project.png)
 ![Dart](https://img.icons8.com/color/50/dart.png)
 ![Wireshark](https://img.icons8.com/nolan/50/wireshark--v1.png)
-![Burp Suite](https://img.icons8.com/deco/50/burp-suite.png)
+![Burp Suite](https://img.icons8.com/ios/50/burp-suite.png)
 ![Kali Linux](https://img.icons8.com/plasticine/50/kali-linux.png)
 
 ---
