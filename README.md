@@ -40,12 +40,20 @@ My journey so far has been fueled by curiosity and the drive to build and learn 
 ---
 
 🌐 **Find Me Online**  
-[![Instagram](https://img.icons8.com/clouds/30/instagram-new--v3.png)](https://www.instagram.com/itsrohitgiri) :@itsrohitgiri![Verified](https://img.icons8.com/color/20/verified-badge.png)
+<div align="left">
 
-[![Twitter](https://img.icons8.com/cute-clipart/30/twitter.png)](https://twitter.com/itsrohitgiri)  
-[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/itsrohitgiri)  
-[![Snapchat](https://img.icons8.com/pulsar-color/30/snapchat.png)](https://www.snapchat.com/add/itsrohitgiri)  
-[![YouTube](https://img.icons8.com/scribby/30/youtube-play.png)](https://www.youtube.com/channel/itsrohitgiri)  
+[![Instagram](https://img.icons8.com/clouds/30/instagram-new--v3.png)](https://www.instagram.com/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+
+[![Twitter](https://img.icons8.com/cute-clipart/30/twitter.png)](https://twitter.com/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+
+[![LinkedIn](https://img.icons8.com/color/30/linkedin.png)](https://linkedin.com/in/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+
+[![Snapchat](https://img.icons8.com/pulsar-color/30/snapchat.png)](https://www.snapchat.com/add/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+
+[![YouTube](https://img.icons8.com/scribby/30/youtube-play.png)](https://www.youtube.com/channel/itsrohitgiri) : @itsrohitgiri <img src="https://img.icons8.com/color/20/verified-badge.png" alt="Verified" width="20">
+
+</div>
+
   
 ---
 
