@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Joke Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            width: 300px;
+            padding: 50px;
+            border: 2px solid skyblue;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        #parent {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <script>
+        let jokeCount = 0;
+
+        const getdata = () => {
+            fetch("https://v2.jokeapi.dev/joke/Any")
+                .then((res) => res.json())
+                .then((data) => {
+                    display(data);
+                })
+                .catch((error) => console.error("Error fetching data:", error));
+        };
+
+        const display = (data) => {
+            const parentDiv = document.getElementById("parent");
+
+            jokeCount++;
+            
+            parentDiv.innerHTML = "";
+
+            const jokeLabel = document.createElement("label");
+            jokeLabel.textContent = "Joke: ";
+
+            const jokeText = document.createElement("p");
+            jokeText.style.fontWeight = "bold";
+
+            if (data.type === "single") {
+                jokeText.textContent = data.joke;
+            } else {
+                jokeText.textContent = `${data.setup} - ${data.delivery}`;
+            }
+
+            const countLabel = document.createElement("p");
+            countLabel.textContent = `Joke Count: ${jokeCount}`;
+
+            parentDiv.appendChild(jokeLabel);
+            parentDiv.appendChild(jokeText);
+            parentDiv.appendChild(countLabel);
+        };
+
+        const clearData = () => {
+            document.getElementById("parent").innerHTML = "";
+            jokeCount = 0;
+        };
+    </script>
+
+    <div class="container">
+        <h1>Joke Generator</h1>
+        <div id="parent">
+            <p>Click "Get Joke" to see a joke!</p>
+        </div>
+        <button onclick="getdata()">Get Joke</button>
+        <button onclick="clearData()">Clear</button>
+    </div>
+</body>
